@@ -1,8 +1,45 @@
-img {
-  height: 100px;
-  width: 100px;
-}
 
 h1 {
+  text-align: center ;
   color: blue;
+}
+
+img {
+  width: 100px;
+  border-radius: 100px;
+}
+
+.intro {
+width: 1680px;
+float: right;
+}
+
+.nike {
+  font-weight: bold;
+}
+
+.wild {
+  font-weight: bold;
+}
+
+.sl {
+  color: green;
+}
+.school {
+  font-size: medium;
+  font-weight: bolder;
+  font-style: italic;
+}
+.passionate {
+  font-weight: bold;
+  color: chocolate;
+}
+
+.interest {
+  float: right;
+}
+.test-box {
+  border: 2px solid black;
+width: 180px;
+float: inline-start;
 }
