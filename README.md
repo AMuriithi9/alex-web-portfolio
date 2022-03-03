@@ -25,5 +25,5 @@ Incase of any queries, compliments and contibution. reach me out on my email- al
 
 ### License
 
-For copyrights and licensing [new website for alex](https://choosealicense.com/licenses/mit/)
+For copyrights and licensing [license](https://choosealicense.com/licenses/mit/)
 Copyright (c) 2022 AMuriithi9
