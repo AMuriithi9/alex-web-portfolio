@@ -43,3 +43,6 @@ float: right;
 width: 180px;
 float: inline-start;
 }
+body {
+  background-color: cyan;
+}
