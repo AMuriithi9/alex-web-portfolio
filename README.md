@@ -5,8 +5,7 @@ Independent project at moringa
 
 #### List of contributors
 
-*Added an image
-
+-Added an image
 - created links
 - Div classes
 - Css styling-
